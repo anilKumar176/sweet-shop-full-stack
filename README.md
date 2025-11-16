@@ -551,3 +551,8 @@ For questions or feedback about this project, please reach out through the repos
 ---
 
 **Built with ❤️ and 🍬 using Next.js, TypeScript, and AI assistance**
+
+
+@@ login and signup demo
+admin:-admin1@sweetshop.com
+password=admin123
